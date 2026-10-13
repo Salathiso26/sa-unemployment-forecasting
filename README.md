@@ -2,7 +2,7 @@
 End-to-end analysis of South Africa’s quarterly unemployment (Stats SA QLFS, 2008-2025): EDA, PostgreSQL analysis, forecasting with scikit-learn and MLflow tracking, and an interactive Streamlit dashboard.
 > I analysed South Africa's quarterly unemployment data from Stats SA, uncovered trends and seasonal patterns through EDA, loaded the data into PostgreSQL for SQL-based analysis, trained and tracked forecasting models with MLflow, and built an interactive Streamlit app with dashboards, forecasts, and provincial comparisons
 
-**Live app:**
+**Live app:** http://localhost:8501/
 
 ## Key findings
 
